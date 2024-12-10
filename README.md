@@ -1,3 +1,1 @@
-# Hinomoto
-# SALVARE
-# gen-quickstart-on-google-colab
+# realtime_trash_classification_julia
