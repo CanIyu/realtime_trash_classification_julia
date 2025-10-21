@@ -2,3 +2,4 @@
 
 run `realtime_classification.py` to classify some trash.
 # AladdinRover
+# AladdinWebPage
